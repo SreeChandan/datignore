@@ -1,3 +1,5 @@
+(this a fork to modify this extension to work with .datignore)
+
 # Ignore "G" IT
 
 This extension is nothing of so complex, it just allow you to exclude file\directory\extension from git (playing with gitignore) via __vscode UI__.
