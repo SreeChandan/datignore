@@ -1,4 +1,4 @@
-(this a fork to modify this extension to work with .datignore)
+(this a fork to modify [this](https://github.com/andreabbondanza/ignoregit) extension to work with .datignore)
 
 # Ignore "G" IT
 
